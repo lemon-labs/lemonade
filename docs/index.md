@@ -1,3 +1,11 @@
+[![license](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/){target=_blank} 
+
+## Contents
+
+- [Why](why.md)
+- [Lessons](research_objects.md)
+- [Dev Environments](codespaces.md)
+
 ![lemonade](https://github.com/lemon-labs/lemonade/raw/main/assets/lemonade.jpeg){align=left}
 
 Lemon Labs are supported by [![NSF-1839307](https://img.shields.io/badge/NSF-1839307-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1839307){target=_blank} under the TRIPODS-X

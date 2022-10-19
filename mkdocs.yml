@@ -15,14 +15,10 @@ copyright: 'Copyright &copy; 2022 Lemon Labs'
 # Navigation Page
 
 nav:
-  - Home: 
-    - 'Home': index.md
+  - Home: index.md
+  - "Why": why.md
   - Lessons:
-    - '1. Open Science': 01_intro_open_sci.md
-    - '2. Project Management': 02_project_management.md
-    - '3. Machine Learning': 03_machine_learning.md
-    - '4. Documentation and Communication': 04_documentation_communication.md
-    - '5. Research Objects': 05_research_objects.md
+    - '1. Research Objects': research_objects.md
   - Development Environments:
     - 'CodeSpaces': codespaces.md
 
@@ -77,7 +73,7 @@ theme:
     - navigation.top
   favicon: assets/favicon.png
   icon:
-    logo: material/rocket
+    logo: material/beer-outline
 
 # Options
 extra:
