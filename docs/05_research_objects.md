@@ -39,7 +39,9 @@ Broadly, Research Objects (RO) are defined as a method for identification, aggre
 
 # Hands-On
 
+1. Log into GitHub
 
+2. Import 
 
 # Self-Assessment
 
