@@ -12,7 +12,7 @@ The goal is to bring together thought-leaders and practitioners in data-driven o
 
 We’ve dubbed the two workshops “Lemon” and “Lemonade” labs. 
 
-During the Lemon Lab (Spring 2019), we openly discussed challenges in inter- and transdisciplinary collaborations and brainstorm ideas on improve productivity and outcomes. Our publication "Ten simple rules to cultivate transdisciplinary collaboration in data science"](https://doi.org/10.1371/journal.pcbi.1008879) was grown out of that effort. 
+During the Lemon Lab (Spring 2019), we openly discussed challenges in inter- and transdisciplinary collaborations and brainstorm ideas on improve productivity and outcomes. Our publication ["Ten simple rules to cultivate transdisciplinary collaboration in data science"](https://doi.org/10.1371/journal.pcbi.1008879){target=_blank} was grown out of that effort. 
 
 At the subsequent Lemonade Lab (Fall 2022), participants will prototype ideas and solutions identified during the Lemon Lab workshop in a codefest/hackathon-style event — turning “lemons” into thirst-quenching “lemonade.”
 
