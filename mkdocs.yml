@@ -19,6 +19,9 @@ nav:
   - "Why": why.md
   - Lessons:
     - '1. Research Objects': research_objects.md
+    - '2. NASA DAAC migration': daac_aws.md
+    - '3. Physics informed ML': physics_ml.md
+    - '4. Diverse Data Paradigms': diverse_data.md
   - Development Environments:
     - 'CodeSpaces': codespaces.md
 
