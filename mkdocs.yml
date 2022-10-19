@@ -23,7 +23,7 @@ nav:
     - '3. Machine Learning': 03_machine_learning.md
     - '4. Documentation and Communication': 04_documentation_communication.md
     - '5. Research Objects': 05_research_objects.md
-- Development Environments:
+  - Development Environments:
     - 'CodeSpaces': codespaces.md
 
 
