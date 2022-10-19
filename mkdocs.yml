@@ -17,14 +17,14 @@ copyright: 'Copyright &copy; 2022 Lemon Labs'
 nav:
   - Home: index.md
   - "Why": why.md
-  - Lessons:
+  - Learning Booths:
     - '1. Research Objects': research_objects.md
     - '2. NASA DAAC migration': daac_aws.md
     - '3. Physics informed ML': physics_ml.md
     - '4. Diverse Data Paradigms': diverse_data.md
+    - '5. Cloud Automation': cacao.md
   - Development Environments:
     - 'CodeSpaces': codespaces.md
-
 
 # JavaScript for Intercom Widget
 extra_javascript:

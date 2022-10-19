@@ -16,5 +16,6 @@ Speaker: Samapriya
 
 [Google Earth Engine Community Data Catalog](https://gee-community-catalog.org/){target=_blank}
 
-[![gee](https://user-images.githubusercontent.com/6677629/193480583-8f403475-7325-4b9e-b24d-222b46517512.png)](https://gee-community-catalog.org/)
+[![gee](https://user-images.githubusercontent.com/6677629/193480583-8f403475-7325-4b9e-b24d-222b46517512.png)](https://gee-community-catalog.org/){target=_blank}
 
+[![stats](https://user-images.githubusercontent.com/6677629/193621445-0533b08d-eae6-46a3-b23a-99a822af4468.PNG)](https://gee-community-catalog.org/){target=_blank}
