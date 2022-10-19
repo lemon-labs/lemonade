@@ -15,8 +15,6 @@ TBD
 TBD
 
 
-[![NSF](/images/nsf.png)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839307&HistoricalAwards=false)
-[![NIMBioS](/images/nimbios.png)](http://www.nimbios.org/)
-[![U. of Arizona](/images/ua.png)](https://www.arizona.edu/)
-
-[def]: ../assets/lemonade.jpeg
+[![NSF](https://github.com/lemon-labs/lemonade/raw/main/assets/nsf.png)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839307&HistoricalAwards=false)
+[![NIMBioS](https://github.com/lemon-labs/lemonade/raw/main/assets/nimbios.png)](http://www.nimbios.org/)
+[![U. of Arizona](https://github.com/lemon-labs/lemonade/raw/main/assets/ua.png)](https://www.arizona.edu/)
