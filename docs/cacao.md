@@ -11,3 +11,6 @@ Additional Resources:
 - [Information about CACAO on CyVerse's website](https://cyverse.org/cacao){target=_blank}
 - [CACAO Webinar](https://cyverse.org/webinar-cacao){target=_blank}
 - [CACAO code repo](https://gitlab.com/cyverse/cacao){target=_blank}
+- [Cloud Computing for Research and Education Gets a Sweet Upgrade with CACAO, PEARC23](https://dl.acm.org/doi/10.1145/3569951.3597555)
+- [Cyberinfrastructure deployments on public research clouds enable accessible Environmental Data Science education, PEAR23](https://dl.acm.org/doi/10.1145/3569951.3597606)
+- CACAO: A Research Software Platform for the Cloud, 10.5281/zenodo.10420415
